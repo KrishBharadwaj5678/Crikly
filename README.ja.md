@@ -70,7 +70,7 @@ index.html ファイルをブラウザで開くだけで実行できます。
 
 このプロジェクトは MIT License の下で公開されています。
 
-詳しくは LICENSE ファイルをご覧ください。
+詳しくは [LICENSE](LICENSE) ファイルをご覧ください。
 
 <p align="center">
   <img src="https://github.com/KrishBharadwaj5678/Crikly/raw/main/assets/readme/footer.gif" width="320px"/>
