@@ -54,13 +54,13 @@
 git clone https://github.com/KrishBharadwaj5678/Crikly.git
 ```
 
-2️⃣ プロジェクトへ移動
+### 2️⃣ プロジェクトへ移動
 
 ```bash
 cd Crikly
 ```
 
-3️⃣ ブラウザで開く
+### 3️⃣ ブラウザで開く
 
 index.html ファイルをブラウザで開くだけで実行できます。
 
